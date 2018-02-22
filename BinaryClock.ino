@@ -1,3 +1,6 @@
+//Written by PwnKitteh, 2017
+//This code is designed to be run on a binary clock to help keep the time
+//It gets the time from the computer it's connected to, so as long as that clock is good, the time should be right. 
 #include <RTClib.h>
 
 #include <Wire.h>
