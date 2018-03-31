@@ -1,5 +1,5 @@
 # BinaryClock
-![Binary Clock Image](/images/binaryClock.PNG)
+![Binary Clock Image](/images/binaryClockRight.PNG)
 
 Code for my Binary Clock, which I built while bored in Computer Science class. It displays the time in binary format, instead of standard decimal. 
 
