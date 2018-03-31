@@ -1,4 +1,6 @@
 # BinaryClock
+![Binary Clock Image](/images/binaryClock.png)
+
 Code for my Binary Clock, which I built while bored in Computer Science class. It displays the time in binary format, instead of standard decimal. 
 
 The parts you will need are: 
